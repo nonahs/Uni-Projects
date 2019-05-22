@@ -1,0 +1,457 @@
+<Customers>
+  <Customer>
+    <CustomerID>ALFKI</CustomerID>
+    <CompanyName>Alfreds Futterkiste</CompanyName>
+    <ContactName>Maria Anders</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>ANATR</CustomerID>
+    <CompanyName>Ana Trujillo Emparedados y helados</CompanyName>
+    <ContactName>Ana Trujillo</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>ANTON</CustomerID>
+    <CompanyName>Antonio Moreno Taquería</CompanyName>
+    <ContactName>Antonio Moreno</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>AROUT</CustomerID>
+    <CompanyName>Around the Horn</CompanyName>
+    <ContactName>Thomas Hardy</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>BERGS</CustomerID>
+    <CompanyName>Berglunds snabbköp</CompanyName>
+    <ContactName>Christina Berglund</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>BLAUS</CustomerID>
+    <CompanyName>Blauer See Delikatessen</CompanyName>
+    <ContactName>Hanna Moos</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>BLONP</CustomerID>
+    <CompanyName>Blondesddsl père et fils</CompanyName>
+    <ContactName>Frédérique Citeaux</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>BOLID</CustomerID>
+    <CompanyName>Bólido Comidas preparadas</CompanyName>
+    <ContactName>Martín Sommer</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>BONAP</CustomerID>
+    <CompanyName>Bon app'</CompanyName>
+    <ContactName>Laurence Lebihan</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>BOTTM</CustomerID>
+    <CompanyName>Bottom-Dollar Markets</CompanyName>
+    <ContactName>Elizabeth Lincoln</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>BSBEV</CustomerID>
+    <CompanyName>B's Beverages</CompanyName>
+    <ContactName>Victoria Ashworth</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>CACTU</CustomerID>
+    <CompanyName>Cactus Comidas para llevar</CompanyName>
+    <ContactName>Patricio Simpson</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>CENTC</CustomerID>
+    <CompanyName>Centro comercial Moctezuma</CompanyName>
+    <ContactName>Francisco Chang</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>CHOPS</CustomerID>
+    <CompanyName>Chop-suey Chinese</CompanyName>
+    <ContactName>Yang Wang</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>COMMI</CustomerID>
+    <CompanyName>Comércio Mineiro</CompanyName>
+    <ContactName>Pedro Afonso</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>CONSH</CustomerID>
+    <CompanyName>Consolidated Holdings</CompanyName>
+    <ContactName>Elizabeth Brown</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>DRACD</CustomerID>
+    <CompanyName>Drachenblut Delikatessen</CompanyName>
+    <ContactName>Sven Ottlieb</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>DUMON</CustomerID>
+    <CompanyName>Du monde entier</CompanyName>
+    <ContactName>Janine Labrune</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>EASTC</CustomerID>
+    <CompanyName>Eastern Connection</CompanyName>
+    <ContactName>Ann Devon</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>ERNSH</CustomerID>
+    <CompanyName>Ernst Handel</CompanyName>
+    <ContactName>Roland Mendel</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>FAMIA</CustomerID>
+    <CompanyName>Familia Arquibaldo</CompanyName>
+    <ContactName>Aria Cruz</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>FISSA</CustomerID>
+    <CompanyName>FISSA Fabrica Inter. Salchichas S.A.</CompanyName>
+    <ContactName>Diego Roel</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>FOLIG</CustomerID>
+    <CompanyName>Folies gourmandes</CompanyName>
+    <ContactName>Martine Rancé</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>FOLKO</CustomerID>
+    <CompanyName>Folk och fä HB</CompanyName>
+    <ContactName>Maria Larsson</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>FRANK</CustomerID>
+    <CompanyName>Frankenversand</CompanyName>
+    <ContactName>Peter Franken</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>FRANR</CustomerID>
+    <CompanyName>France restauration</CompanyName>
+    <ContactName>Carine Schmitt</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>FRANS</CustomerID>
+    <CompanyName>Franchi S.p.A.</CompanyName>
+    <ContactName>Paolo Accorti</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>FURIB</CustomerID>
+    <CompanyName>Furia Bacalhau e Frutos do Mar</CompanyName>
+    <ContactName>Lino Rodriguez</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>GALED</CustomerID>
+    <CompanyName>Galería del gastrónomo</CompanyName>
+    <ContactName>Eduardo Saavedra</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>GODOS</CustomerID>
+    <CompanyName>Godos Cocina Típica</CompanyName>
+    <ContactName>José Pedro Freyre</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>GOURL</CustomerID>
+    <CompanyName>Gourmet Lanchonetes</CompanyName>
+    <ContactName>André Fonseca</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>GREAL</CustomerID>
+    <CompanyName>Great Lakes Food Market</CompanyName>
+    <ContactName>Howard Snyder</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>GROSR</CustomerID>
+    <CompanyName>GROSELLA-Restaurante</CompanyName>
+    <ContactName>Manuel Pereira</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>HANAR</CustomerID>
+    <CompanyName>Hanari Carnes</CompanyName>
+    <ContactName>Mario Pontes</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>HILAA</CustomerID>
+    <CompanyName>HILARION-Abastos</CompanyName>
+    <ContactName>Carlos Hernández</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>HUNGC</CustomerID>
+    <CompanyName>Hungry Coyote Import Store</CompanyName>
+    <ContactName>Yoshi Latimer</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>HUNGO</CustomerID>
+    <CompanyName>Hungry Owl All-Night Grocers</CompanyName>
+    <ContactName>Patricia McKenna</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>ISLAT</CustomerID>
+    <CompanyName>Island Trading</CompanyName>
+    <ContactName>Helen Bennett</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>KOENE</CustomerID>
+    <CompanyName>Königlich Essen</CompanyName>
+    <ContactName>Philip Cramer</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>LACOR</CustomerID>
+    <CompanyName>La corne d'abondance</CompanyName>
+    <ContactName>Daniel Tonini</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>LAMAI</CustomerID>
+    <CompanyName>La maison d'Asie</CompanyName>
+    <ContactName>Annette Roulet</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>LAUGB</CustomerID>
+    <CompanyName>Laughing Bacchus Wine Cellars</CompanyName>
+    <ContactName>Yoshi Tannamuri</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>LAZYK</CustomerID>
+    <CompanyName>Lazy K Kountry Store</CompanyName>
+    <ContactName>John Steel</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>LEHMS</CustomerID>
+    <CompanyName>Lehmanns Marktstand</CompanyName>
+    <ContactName>Renate Messner</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>LETSS</CustomerID>
+    <CompanyName>Let's Stop N Shop</CompanyName>
+    <ContactName>Jaime Yorres</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>LILAS</CustomerID>
+    <CompanyName>LILA-Supermercado</CompanyName>
+    <ContactName>Carlos González</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>LINOD</CustomerID>
+    <CompanyName>LINO-Delicateses</CompanyName>
+    <ContactName>Felipe Izquierdo</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>LONEP</CustomerID>
+    <CompanyName>Lonesome Pine Restaurant</CompanyName>
+    <ContactName>Fran Wilson</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>MAGAA</CustomerID>
+    <CompanyName>Magazzini Alimentari Riuniti</CompanyName>
+    <ContactName>Giovanni Rovelli</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>MAISD</CustomerID>
+    <CompanyName>Maison Dewey</CompanyName>
+    <ContactName>Catherine Dewey</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>MEREP</CustomerID>
+    <CompanyName>Mère Paillarde</CompanyName>
+    <ContactName>Jean Fresnière</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>MORGK</CustomerID>
+    <CompanyName>Morgenstern Gesundkost</CompanyName>
+    <ContactName>Alexander Feuer</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>NORTS</CustomerID>
+    <CompanyName>North/South</CompanyName>
+    <ContactName>Simon Crowther</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>OCEAN</CustomerID>
+    <CompanyName>Océano Atlántico Ltda.</CompanyName>
+    <ContactName>Yvonne Moncada</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>OLDWO</CustomerID>
+    <CompanyName>Old World Delicatessen</CompanyName>
+    <ContactName>Rene Phillips</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>OTTIK</CustomerID>
+    <CompanyName>Ottilies Käseladen</CompanyName>
+    <ContactName>Henriette Pfalzheim</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>PARIS</CustomerID>
+    <CompanyName>Paris spécialités</CompanyName>
+    <ContactName>Marie Bertrand</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>PERIC</CustomerID>
+    <CompanyName>Pericles Comidas clásicas</CompanyName>
+    <ContactName>Guillermo Fernández</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>PICCO</CustomerID>
+    <CompanyName>Piccolo und mehr</CompanyName>
+    <ContactName>Georg Pipps</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>PRINI</CustomerID>
+    <CompanyName>Princesa Isabel Vinhos</CompanyName>
+    <ContactName>Isabel de Castro</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>QUEDE</CustomerID>
+    <CompanyName>Que Delícia</CompanyName>
+    <ContactName>Bernardo Batista</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>QUEEN</CustomerID>
+    <CompanyName>Queen Cozinha</CompanyName>
+    <ContactName>Lúcia Carvalho</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>QUICK</CustomerID>
+    <CompanyName>QUICK-Stop</CompanyName>
+    <ContactName>Horst Kloss</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>RANCH</CustomerID>
+    <CompanyName>Rancho grande</CompanyName>
+    <ContactName>Sergio Gutiérrez</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>RATTC</CustomerID>
+    <CompanyName>Rattlesnake Canyon Grocery</CompanyName>
+    <ContactName>Paula Wilson</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>REGGC</CustomerID>
+    <CompanyName>Reggiani Caseifici</CompanyName>
+    <ContactName>Maurizio Moroni</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>RICAR</CustomerID>
+    <CompanyName>Ricardo Adocicados</CompanyName>
+    <ContactName>Janete Limeira</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>RICSU</CustomerID>
+    <CompanyName>Richter Supermarkt</CompanyName>
+    <ContactName>Michael Holz</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>ROMEY</CustomerID>
+    <CompanyName>Romero y tomillo</CompanyName>
+    <ContactName>Alejandra Camino</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>SANTG</CustomerID>
+    <CompanyName>Santé Gourmet</CompanyName>
+    <ContactName>Jonas Bergulfsen</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>SAVEA</CustomerID>
+    <CompanyName>Save-a-lot Markets</CompanyName>
+    <ContactName>Jose Pavarotti</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>SEVES</CustomerID>
+    <CompanyName>Seven Seas Imports</CompanyName>
+    <ContactName>Hari Kumar</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>SIMOB</CustomerID>
+    <CompanyName>Simons bistro</CompanyName>
+    <ContactName>Jytte Petersen</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>SPECD</CustomerID>
+    <CompanyName>Spécialités du monde</CompanyName>
+    <ContactName>Dominique Perrier</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>SPLIR</CustomerID>
+    <CompanyName>Split Rail Beer &amp; Ale</CompanyName>
+    <ContactName>Art Braunschweiger</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>SUPRD</CustomerID>
+    <CompanyName>Suprêmes délices</CompanyName>
+    <ContactName>Pascale Cartrain</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>THEBI</CustomerID>
+    <CompanyName>The Big Cheese</CompanyName>
+    <ContactName>Liz Nixon</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>THECR</CustomerID>
+    <CompanyName>The Cracker Box</CompanyName>
+    <ContactName>Liu Wong</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>TOMSP</CustomerID>
+    <CompanyName>Toms Spezialitäten</CompanyName>
+    <ContactName>Karin Josephs</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>TORTU</CustomerID>
+    <CompanyName>Tortuga Restaurante</CompanyName>
+    <ContactName>Miguel Angel Paolino</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>TRADH</CustomerID>
+    <CompanyName>Tradição Hipermercados</CompanyName>
+    <ContactName>Anabela Domingues</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>TRAIH</CustomerID>
+    <CompanyName>Trail's Head Gourmet Provisioners</CompanyName>
+    <ContactName>Helvetius Nagy</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>VAFFE</CustomerID>
+    <CompanyName>Vaffeljernet</CompanyName>
+    <ContactName>Palle Ibsen</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>VICTE</CustomerID>
+    <CompanyName>Victuailles en stock</CompanyName>
+    <ContactName>Mary Saveley</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>VINET</CustomerID>
+    <CompanyName>Vins et alcools Chevalier</CompanyName>
+    <ContactName>Paul Henriot *******</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>WANDK</CustomerID>
+    <CompanyName>Die Wandernde Kuh</CompanyName>
+    <ContactName>Rita Müller</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>WARTH</CustomerID>
+    <CompanyName>Wartian Herkku</CompanyName>
+    <ContactName>Pirkko Koskitalo</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>WELLI</CustomerID>
+    <CompanyName>Wellington Importadora</CompanyName>
+    <ContactName>Paula Parente</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>WHITC</CustomerID>
+    <CompanyName>White Clover Markets</CompanyName>
+    <ContactName>Karl Jablonski</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>WILMK</CustomerID>
+    <CompanyName>Wilman Kala</CompanyName>
+    <ContactName>Matti Karttunen</ContactName>
+  </Customer>
+  <Customer>
+    <CustomerID>WOLZA</CustomerID>
+    <CompanyName>Wolski  Zajazd</CompanyName>
+    <ContactName>Zbyszek Piestrzeniewicz</ContactName>
+  </Customer>
+</Customers>
